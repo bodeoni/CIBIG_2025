@@ -6,7 +6,7 @@ Repository for some of my work at CIBIG 2025
 
 See folder structure below
 
-.
+```
 ├── LICENSE
 ├── Mind_Map
 │   ├── Mindmap.md
@@ -31,3 +31,4 @@ See folder structure below
 │   ├── exo7.py
 │   └── exo9.py
 └── README.md
+```
